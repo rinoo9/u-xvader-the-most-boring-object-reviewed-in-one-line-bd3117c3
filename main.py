@@ -5,7 +5,7 @@ Writes the review to /output/entry.txt (UTF-8, single line, 1-200 chars).
 
 import os
 
-ENTRY = "This rubber band has held the same three pens together since 2019 and still thinks it's doing important work."
+ENTRY = "This wall switch has been flipped twice a day since 2009 and still acts surprised every single time."
 
 
 def main():
