@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty "The Most Boring Object, Reviewed in One Line" — one funny, true line reviewing the dullest everyday object.
 
-Entry: "This rubber band has held the same three pens together since 2019 and still thinks it's doing important work." (109 characters)
+Entry: "This wall switch has been flipped twice a day since 2009 and still acts surprised every single time." (100 characters)
 
 ## Run
 
