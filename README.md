@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty "The Most Boring Object, Reviewed in One Line" — one funny, true line reviewing the dullest everyday object.
 
-Entry: "This wall switch has been flipped twice a day since 2009 and still acts surprised every single time." (100 characters)
+Entry: "This doorstop has been kicked, tripped over, and blamed for the draft for twelve years, and it has never once been thanked." (123 characters)
 
 ## Run
 

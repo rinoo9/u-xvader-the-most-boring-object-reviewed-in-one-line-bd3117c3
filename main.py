@@ -1,11 +1,11 @@
-"""One-line review of the most boring everyday object: a rubber band.
+"""One-line review of the most boring everyday object: a doorstop.
 
 Writes the review to /output/entry.txt (UTF-8, single line, 1-200 chars).
 """
 
 import os
 
-ENTRY = "This wall switch has been flipped twice a day since 2009 and still acts surprised every single time."
+ENTRY = "This doorstop has been kicked, tripped over, and blamed for the draft for twelve years, and it has never once been thanked."
 
 
 def main():
